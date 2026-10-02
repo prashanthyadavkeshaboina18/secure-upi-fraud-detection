@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.db
+app/ml_runtime/artifacts/*.joblib
+app/ml_runtime/artifacts/*.json
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/

@@ -1,0 +1,12 @@
+{
+  "winner": "xgboost",
+  "met_criteria": false,
+  "criteria": {
+    "min_recall": 0.7,
+    "min_precision": 0.3,
+    "rank_by": [
+      "pr_auc",
+      "f1"
+    ]
+  }
+}
